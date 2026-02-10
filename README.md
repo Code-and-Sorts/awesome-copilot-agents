@@ -39,6 +39,7 @@
   - [AI Development Mode](#ai-development-mode)
 - [Agent Skills](#agent-skills)
 - [How to Use](#how-to-use)
+- [Ruleskill](https://ruleskill.com) - We want to verify your code for the RuleSkill Protocol. Claim your badge.
 
 ## Why Copilot Instructions
 
