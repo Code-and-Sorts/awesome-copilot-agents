@@ -38,6 +38,7 @@
 - [Custom Agents](#custom-agents)
   - [AI Development Mode](#ai-development-mode)
 - [Agent Skills](#agent-skills)
+- [MCP Servers](#mcp-servers)
 - [How to Use](#how-to-use)
 
 ## Why Copilot Instructions
@@ -193,6 +194,13 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 - [pdf](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/pdf/README.md) - PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms.
 - [pptx](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/pptx/README.md) - Presentation creation, editing, and analysis.
 - [xlsx](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/xlsx/README.md) - Spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization.
+
+
+## MCP Servers
+
+[MCP (Model Context Protocol)](https://modelcontextprotocol.io) servers extend Copilot and other AI agents with external tool integrations, enabling them to interact with third-party services and APIs.
+
+- [Taskade MCP Server](https://github.com/taskade/mcp) - Official Taskade MCP server. Manage projects, notes, mind maps, AI agents, and workflow automation from Copilot and other MCP clients.
 
 ## How to Use
 
