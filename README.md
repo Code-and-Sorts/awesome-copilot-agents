@@ -38,6 +38,7 @@
 - [Custom Agents](#custom-agents)
   - [AI Development Mode](#ai-development-mode)
 - [Agent Skills](#agent-skills)
+- [Platforms & Management Tools](#platforms--management-tools)
 - [How to Use](#how-to-use)
 
 ## Why Copilot Instructions
@@ -193,6 +194,12 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 - [pdf](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/pdf/README.md) - PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms.
 - [pptx](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/pptx/README.md) - Presentation creation, editing, and analysis.
 - [xlsx](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/xlsx/README.md) - Spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization.
+
+## Platforms & Management Tools
+
+Tools and platforms for managing, generating, and sharing AI coding assistant configuration files.
+
+- [LynxPrompt](https://github.com/GeiserX/LynxPrompt) - Self-hostable platform for managing AI IDE configuration files. Generates, syncs, and shares `copilot-instructions.md` files (and 30+ other AI coding assistant config formats) via web UI, REST API, CLI, and federated blueprint marketplace. ([Website](https://lynxprompt.com))
 
 ## How to Use
 
