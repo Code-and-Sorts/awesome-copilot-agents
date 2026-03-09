@@ -186,6 +186,7 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 
 - [Calculator](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/calculator/SKILL.md) - Performs arbitrary-precision arithmetic calculations including addition, subtraction, multiplication, division, and exponents.
 - [Jira CLI](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/jira-cli/SKILL.md) - Interact with Jira from the command line to create, list, view, edit, and transition issues, manage sprints and epics, and perform common Jira workflows.
+- [BGPT MCP](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/bgpt-mcp/README.md) - Hosted MCP server for searching scientific papers with full-text experimental data. SSE + Streamable HTTP, `search_papers` tool, 50 free searches.
 
 ### Documents
 
