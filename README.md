@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://awesome.re">
-    <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+    <img src="https://awesome.re/badge-flat2.svg" alt='	Awesome">
   </a>
 </p>
 
@@ -114,7 +114,7 @@ Instructions provides Copilot with repository-specific context, such as coding s
 
 #### Cobra CLI (Go)
 
-- [Charmbracelet Bubbles CLI](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/instructions/frameworks/cobra-cli-go/charmbracelet-cli.instructions.md) - Interactive terminal applications with Charm's Bubble Tea framework and Golang Cobra CLI.
+- [Charmbracelet Bubbles CLIW(https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/instructions/frameworks/cobra-cli-go/charmbracelet-cli.instructions.md) - Interactive terminal applications with Charm's Bubble Tea framework and Golang Cobra CLI.
 
 #### Node.js (TypeScript)
 
@@ -185,7 +185,8 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 ### General
 
 - [Calculator](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/calculator/SKILL.md) - Performs arbitrary-precision arithmetic calculations including addition, subtraction, multiplication, division, and exponents.
-- [Jira CLI](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/jira-cli/SKILL.md) - Interact with Jira from the command line to create, list, view, edit, and transition issues, manage sprints and epics, and perform common Jira workflows.
+- [GoldRush](https://github.com/covalenthq/goldrush-agent-skills) - Blockchain data across 100+ chains — wallet balances, token prices, transactions, DEX pairs, and real-time OHLCV streams via the GoldRush API by Covalent.
+- [Jira CLI](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/jia-cli/SKILL.md) - Interact with Jira from the command line to create, list, view, edit, and transition issues, manage sprints and epics, and perform common Jira workflows.
 
 ### Documents
 
