@@ -38,6 +38,7 @@
 - [Custom Agents](#custom-agents)
   - [AI Development Mode](#ai-development-mode)
 - [Agent Skills](#agent-skills)
+- [MCPs](#mcps)
 - [How to Use](#how-to-use)
 
 ## Why Copilot Agents
@@ -193,6 +194,37 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 - [pdf](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/pdf/README.md) - PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms.
 - [pptx](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/pptx/README.md) - Presentation creation, editing, and analysis.
 - [xlsx](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/xlsx/README.md) - Spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization.
+
+### Cloud
+
+- [Az CLI](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/cloud/az-cli/SKILL.md) - Azure CLI documentation to execute or ask about Azure CLI commands.
+- [Azure Prices](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/cloud/azure-prices/SKILL.md) - Look up and compare Azure service pricing using the Azure Retail Prices API.
+
+### Development
+
+- [Playwright CLI](https://github.com/microsoft/playwright-cli/blob/main/skills/playwright-cli/SKILL.md) - Automate browser interactions, test web pages and work with Playwright tests.
+
+## MCPs
+
+### General MCPs
+
+- [Knowledge Graph Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) - Create a local knowledge graph for your agent to remember information across different chat sessions.
+- [Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Read and write files in batch operations, search file contents, list files, and validate file paths.
+- [Fetch](https://github.com/modelcontextprotocol/servers/blob/main/src/fetch) - Automate web browsing for agents to retrieve and process content from web pages, converting HTML to markdown for easier consumption.
+- [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - Break down complex problems into structured steps.
+- [GitHub](https://github.com/github/github-mcp-server) - Allow your agent access to repository and workflow management.
+- [Time](https://github.com/modelcontextprotocol/servers/blob/main/src/time) - Enables agents to get current time information and perform timezone conversions using IANA timezone names, with automatic system timezone detection.
+
+### Development MCPs
+
+- [Playwright](https://github.com/microsoft/playwright-mcp) - Playwright MCP to automate browser interactions, test web pages and work with Playwright tests.
+- [Context7](https://github.com/upstash/context7) - Inject version-specific code documentation in your agent session to provide the correct API docs for code generation.
+
+### Cloud MCPs
+
+- [Azure MCP](https://github.com/microsoft/mcp/blob/main/servers/Azure.Mcp.Server/README.md) - Azure MCP Server supercharges your agents with Azure context across different Azure services.
+- [AWS Documentation](https://github.com/awslabs/mcp/tree/main/src/aws-documentation-mcp-server) - Agent tools to access AWS documentation, search for content, and get recommendations.
+- [gcloud](https://github.com/googleapis/gcloud-mcp) - Agent tools to interact with the Google Cloud environment using the gcloud CLI
 
 ## How to Use
 
