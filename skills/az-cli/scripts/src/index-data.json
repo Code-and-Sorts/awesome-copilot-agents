@@ -1,0 +1,1598 @@
+[
+  {
+    "name": "acat",
+    "description": "Manage App Compliance Automation Tool reports.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "account",
+    "description": "Manage Azure subscription information.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "acr",
+    "description": "Manage private registries with Azure Container Registries.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "ad",
+    "description": "Manage Microsoft Entra ID (formerly known as Azure Active Directory, Azure AD, AAD) entities needed for Azure role-based access control (Azure RBAC) through Microsoft Graph API.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "advisor",
+    "description": "Manage Azure Advisor.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "afd",
+    "description": "Manage Azure Front Door Standard/Premium.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "ai-examples",
+    "description": "Add AI powered examples to help content.",
+    "type": "Extension",
+    "status": "Preview"
+  },
+  {
+    "name": "aks",
+    "description": "Azure Kubernetes Service.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "aksarc",
+    "description": "Manage provisioned clusters.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "alerts-management",
+    "description": "Manage Azure Alerts Management Service Resource.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "alias",
+    "description": "Manage Azure CLI Aliases.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "amlfs",
+    "description": "Manage Azure Managed Lustre Filesystem.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "ams",
+    "description": "Manage Azure Media Services resources.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "aosm",
+    "description": "Manage Azure Operator Service Manager resources.",
+    "type": "Extension",
+    "status": "Preview"
+  },
+  {
+    "name": "apic",
+    "description": "Manage Azure API Center services.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "apim",
+    "description": "Manage Azure API Management services.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "appconfig",
+    "description": "Manage App Configurations.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "appnet",
+    "description": "Azure Kubernetes Application Network.",
+    "type": "Extension",
+    "status": "Preview"
+  },
+  {
+    "name": "appservice",
+    "description": "Manage Appservice.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "arc-multicloud",
+    "description": "Commands for arc-multicloud.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "arcappliance",
+    "description": "Commands to manage Arc resource bridge.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "arcgateway",
+    "description": "Manage gateway connection on Arc machine.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "arize-ai",
+    "description": "Manage Arize Ai.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "aro",
+    "description": "Manage Azure Red Hat OpenShift clusters.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "artifact-signing",
+    "description": "Manage artifact signing account.",
+    "type": "Extension",
+    "status": "Preview"
+  },
+  {
+    "name": "artifacts",
+    "description": "Manage Azure Artifacts.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "astronomer",
+    "description": "Manage Azure Astronomer resources.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "attestation",
+    "description": "Manage Microsoft Azure Attestation (MAA).",
+    "type": "Extension",
+    "status": "Experimental"
+  },
+  {
+    "name": "automanage",
+    "description": "Manage Automanage.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "automation",
+    "description": "Manage Automation Account.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "backup",
+    "description": "Manage Azure Backups.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "baremetalinstance",
+    "description": "Handle Operations for Compute Azure Bare Instances.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "baremetalstorageinstance",
+    "description": "Handle Operations for Storage Azure Bare Metal Instances.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "batch",
+    "description": "Manage Azure Batch.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "bicep",
+    "description": "Bicep CLI command group.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "billing",
+    "description": "Manage Azure Billing.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "billing-benefits",
+    "description": "Azure billing benefits commands.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "blueprint",
+    "description": "Commands to manage blueprint.",
+    "type": "Extension",
+    "status": "Deprecated"
+  },
+  {
+    "name": "boards",
+    "description": "Manage Azure Boards.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "bot",
+    "description": "Manage Microsoft Azure Bot Service.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "cache",
+    "description": "Commands to manage CLI objects cached using the `--defer` argument.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "capacity",
+    "description": "Manage capacity.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "carbon",
+    "description": "Manage Carbon.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "cdn",
+    "description": "Manage Azure Content Delivery Networks (CDNs).",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "change-analysis",
+    "description": "List changes for resources.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "cli-translator",
+    "description": "Translate ARM template or REST API to CLI scripts.",
+    "type": "Extension",
+    "status": "Experimental"
+  },
+  {
+    "name": "cloud",
+    "description": "Manage registered Azure clouds.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "cloud-service",
+    "description": "Manage cloud service.",
+    "type": "Extension",
+    "status": "Experimental"
+  },
+  {
+    "name": "cloudhsm",
+    "description": "Manage Cloud Hsm Cluster.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "cognitiveservices",
+    "description": "Manage Azure Cognitive Services accounts.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "command-change",
+    "description": "Commands for CLI modules metadata management.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "communication",
+    "description": "Manage communication service with communication.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "compute-fleet",
+    "description": "Manage for Azure Compute Fleet.",
+    "type": "Core",
+    "status": "Preview"
+  },
+  {
+    "name": "compute-recommender",
+    "description": "Manage sku/zone/region recommender info for compute resources.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "computeschedule",
+    "description": "Computeschedule batch virtual machine operations.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "confcom",
+    "description": "Commands to generate security policies for confidential containers in Azure.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "confidentialledger",
+    "description": "Manage Confidential Ledger.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "config",
+    "description": "Manage Azure CLI configuration.",
+    "type": "Core",
+    "status": "Experimental"
+  },
+  {
+    "name": "configure",
+    "description": "Manage Azure CLI configuration. This command is interactive.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "confluent",
+    "description": "Manage confluent organization.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "connectedk8s",
+    "description": "Commands to manage connected kubernetes clusters.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "connectedmachine",
+    "description": "Manage Azure Arc-Enabled Server.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "connectedvmware",
+    "description": "Commands to manage Connected VMware.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "connection",
+    "description": "Commands to manage Service Connector local connections which allow local environment to connect Azure Resource. If you want to manage connection for compute service, please run 'az webapp/containerapp/spring connection'.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "consumption",
+    "description": "Manage consumption of Azure resources.",
+    "type": "Core",
+    "status": "Preview"
+  },
+  {
+    "name": "container",
+    "description": "Manage Azure Container Instances.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "containerapp",
+    "description": "Manage Azure Container Apps.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "cosmosdb",
+    "description": "Manage Azure Cosmos DB database accounts.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "costmanagement",
+    "description": "Costmanagement.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "custom-providers",
+    "description": "Commands to manage custom providers.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "customlocation",
+    "description": "Commands to Create, Get, List and Delete CustomLocations.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "data-boundary",
+    "description": "Data boundary operations.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "data-transfer",
+    "description": "Commands for cross domain Service that enables customers to transfer data across security domains.",
+    "type": "Extension",
+    "status": "Preview"
+  },
+  {
+    "name": "databox",
+    "description": "Manage data box.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "databoxedge",
+    "description": "Manage device with databoxedge.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "databricks",
+    "description": "Manage databricks workspaces.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "datadog",
+    "description": "Manage Datadog.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "datafactory",
+    "description": "Manage Data Factory.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "datamigration",
+    "description": "Manage Datamigration.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "dataprotection",
+    "description": "Manage dataprotection.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "datashare",
+    "description": "Manage Data Share.",
+    "type": "Extension",
+    "status": "Experimental"
+  },
+  {
+    "name": "dedicated-hsm",
+    "description": "Manage dedicated hsm with hardware security modules.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "dell",
+    "description": "Manage Dell storage resources in Azure.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "dependency-map",
+    "description": "Manage Dependency Map.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "deployment",
+    "description": "Manage Azure Resource Manager template deployment at subscription scope.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "deployment-scripts",
+    "description": "Manage deployment scripts at subscription or resource group scope.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "desktopvirtualization",
+    "description": "Manage desktop virtualization.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "devcenter",
+    "description": "Manage resources with devcenter.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "devops",
+    "description": "Manage Azure DevOps organization level operations.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "disk",
+    "description": "Manage Azure Managed Disks.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "disk-access",
+    "description": "Manage disk access resources.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "disk-encryption-set",
+    "description": "Disk Encryption Set resource.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "disk-pool",
+    "description": "Manage Azure disk pool.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "dls",
+    "description": "Manage Data Lake Store accounts and filesystems.",
+    "type": "Core",
+    "status": "Preview"
+  },
+  {
+    "name": "dms",
+    "description": "Manage Azure Data Migration Service (classic) instances.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "dnc",
+    "description": "Manage Delegated Network.",
+    "type": "Extension",
+    "status": "Preview"
+  },
+  {
+    "name": "dns-resolver",
+    "description": "Manage Dns Resolver.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "dt",
+    "description": "Manage Azure Digital Twins solutions & infrastructure.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "durabletask",
+    "description": "Commands to manage Durabletask schedulers and taskhubs.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "dynatrace",
+    "description": "Manage dynatrace.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "edge-action",
+    "description": "Manage Edge Action.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "edge-zones",
+    "description": "Manage Edge Zone resources.",
+    "type": "Extension",
+    "status": "Preview"
+  },
+  {
+    "name": "edgeorder",
+    "description": "Manage Edge Order.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "elastic",
+    "description": "Manage Microsoft Elastic.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "elastic-san",
+    "description": "Manage Elastic SAN.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "eventgrid",
+    "description": "Manage Azure Event Grid topics, domains, domain topics, system topics partner topics, event subscriptions, system topic event subscriptions and partner topic event subscriptions.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "eventhubs",
+    "description": "Eventhubs.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "extension",
+    "description": "Manage and update CLI extensions.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "fabric",
+    "description": "Manage Microsoft Fabric resources.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "feature",
+    "description": "Manage resource provider features.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "feedback",
+    "description": "Send feedback to the Azure CLI Team.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "find",
+    "description": "I'm an AI robot, my advice is based on our Azure documentation as well as the usage patterns of Azure CLI and Azure ARM users. Using me improves Azure products and documentation.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "firmwareanalysis",
+    "description": "Commands to manage firmware analysis.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "fleet",
+    "description": "Commands to manage fleet.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "fluid-relay",
+    "description": "Manage Fluid Relay.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "footprint",
+    "description": "Manage Footprint.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "functionapp",
+    "description": "Manage function apps. To install the Azure Functions Core tools see https://github.com/Azure/azure-functions-core-tools.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "fzf",
+    "description": "Commands to select active or default objects via fzf.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "gallery",
+    "description": "Azure Compute Gallery.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "grafana",
+    "description": "Commands to manage Azure Managed Grafana resources.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "graph",
+    "description": "Query the resources managed by Azure Resource Manager.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "graph-services",
+    "description": "Make operations on Microsoft.GraphServices resource types.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "group",
+    "description": "Manage resource groups and template deployments.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "guestconfig",
+    "description": "Manage Guest Configuration.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "hack",
+    "description": "Commands to manage resources commonly used for student hacks.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "hdinsight",
+    "description": "Manage HDInsight resources.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "healthbot",
+    "description": "Manage bot with healthbot.",
+    "type": "Extension",
+    "status": "Experimental"
+  },
+  {
+    "name": "healthcareapis",
+    "description": "Azure Healthcare APIs is a secure cloud platform for managing health data, supporting analytics, machine learning, and scalable solutions.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "hpc-cache",
+    "description": "Commands to manage hpc cache.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "identity",
+    "description": "Manage Managed Identity.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "image",
+    "description": "Manage custom virtual machine images.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "import-export",
+    "description": "Manage Import Export.",
+    "type": "Extension",
+    "status": "Experimental"
+  },
+  {
+    "name": "informatica",
+    "description": "Manage all resources related to Informatica within the Azure CLI.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "init",
+    "description": "It's an effortless setting up tool for configs.",
+    "type": "Extension",
+    "status": "Experimental"
+  },
+  {
+    "name": "interactive",
+    "description": "Start interactive mode. Installs the Interactive extension if not installed already.",
+    "type": "Core",
+    "status": "Preview"
+  },
+  {
+    "name": "internet-analyzer",
+    "description": "Commands to manage internet analyzer.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "iot",
+    "description": "Manage Internet of Things (IoT) assets.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "k8s-configuration",
+    "description": "Commands to manage resources from Microsoft.KubernetesConfiguration.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "k8s-extension",
+    "description": "Commands to manage Kubernetes Extensions.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "k8s-runtime",
+    "description": "Manage Arc Kubernetes Runtime resources.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "keyvault",
+    "description": "Manage KeyVault keys, secrets, and certificates.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "kusto",
+    "description": "Manage Kusto.",
+    "type": "Extension",
+    "status": "Experimental"
+  },
+  {
+    "name": "lab",
+    "description": "Manage azure devtest labs.",
+    "type": "Core",
+    "status": "Preview"
+  },
+  {
+    "name": "lambda-test",
+    "description": "Manage Lambda Test.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "large-instance",
+    "description": "Handle Operations for Compute Azure Large Instances.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "large-storage-instance",
+    "description": "Handle Operations for Storage Azure Large Instances.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "load",
+    "description": "Manage Azure Load Testing resources.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "lock",
+    "description": "Manage Azure locks.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "logic",
+    "description": "Manage logic.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "logicapp",
+    "description": "Manage logic apps.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "login",
+    "description": "Log in to Azure.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "logout",
+    "description": "Log out to remove access to Azure subscriptions.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "maintenance",
+    "description": "Manage Maintenance.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "managed-cassandra",
+    "description": "Azure Managed Cassandra.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "managedapp",
+    "description": "Manage template solutions provided and maintained by Independent Software Vendors (ISVs).",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "managedcleanroom",
+    "description": "Manage Azure Confidential Clean Room.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "managedservices",
+    "description": "Manage the registration assignments and definitions in Azure.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "managementpartner",
+    "description": "Allows the partners to associate a Microsoft Partner Network(MPN) ID to a user or service principal in the customer's Azure directory.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "maps",
+    "description": "Manage Azure Maps.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "mariadb",
+    "description": "Manage Azure Database for MariaDB servers.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "mcc",
+    "description": "Microsoft Connected Cache CLI Commands.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "mdp",
+    "description": "Manage resources of Managed DevOps pools.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "mesh",
+    "description": "(PREVIEW) Manage Azure Service Fabric Mesh Resources.",
+    "type": "Extension",
+    "status": "Preview"
+  },
+  {
+    "name": "migrate",
+    "description": "Manage Azure Migrate resources and operations.",
+    "type": "Extension",
+    "status": "Preview"
+  },
+  {
+    "name": "ml",
+    "description": "Manage Azure Machine Learning resources with the Azure CLI ML extension v2.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "ml",
+    "description": "Manage Azure Machine Learning resources with the Azure CLI ML extension v1.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "mongo-db",
+    "description": "Manage MongoDB.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "monitor",
+    "description": "Manage the Azure Monitor Service.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "mysql",
+    "description": "Manage Azure Database for MySQL servers.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "netappfiles",
+    "description": "Manage Azure NetApp Files (ANF) Resources.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "network",
+    "description": "Manage Azure Network resources.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "network-analytics",
+    "description": "Network Analytics command group Azure Operator Insights resource manipulation.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "network-function",
+    "description": "Manage network function.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "networkcloud",
+    "description": "Manage Network Cloud resources.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "networkfabric",
+    "description": "Manage Azure Network Fabric Management Service API.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "new-relic",
+    "description": "Manage Azure New Relic resources.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "next",
+    "description": "Recommend the possible next set of commands to take.",
+    "type": "Extension",
+    "status": "Experimental"
+  },
+  {
+    "name": "nexusidentity",
+    "description": "Command to manage Nexusidentity keys.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "nginx",
+    "description": "Manage NGINX deployment resources.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "notification-hub",
+    "description": "Manage notification hubs.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "offazure",
+    "description": "Manage on-premise resources for migrate.",
+    "type": "Extension",
+    "status": "Experimental"
+  },
+  {
+    "name": "oracle-database",
+    "description": "Command Modules for RP Oracle.Database.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "orbital",
+    "description": "Azure Orbital Ground Station as-a-Service (GSaaS).",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "palo-alto",
+    "description": "Manage Palo Alto Networks resources within the Azure CLI.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "partnercenter",
+    "description": "Partner Center management.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "peering",
+    "description": "Manage peering.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "pipelines",
+    "description": "Manage Azure Pipelines.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "policy",
+    "description": "Manage resources defined and used by the Azure Policy service.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "portal",
+    "description": "Manage Portal.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "postgres",
+    "description": "Manage Azure Database for PostgreSQL.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "powerbi",
+    "description": "Manage PowerBI resources.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "ppg",
+    "description": "Manage Proximity Placement Groups.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "private-link",
+    "description": "Private-link association CLI command group.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "prototype",
+    "description": "Rapidly create Azure prototypes using AI-driven agent teams.",
+    "type": "Extension",
+    "status": "Preview"
+  },
+  {
+    "name": "provider",
+    "description": "Manage resource providers.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "providerhub",
+    "description": "Manage resources with ProviderHub.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "pscloud",
+    "description": "Manage Pure Storage Block resources.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "purview",
+    "description": "Manage Purview.",
+    "type": "Extension",
+    "status": "Preview"
+  },
+  {
+    "name": "quantum",
+    "description": "Manage Azure Quantum Workspaces and submit jobs to Azure Quantum Providers.",
+    "type": "Extension",
+    "status": "Preview"
+  },
+  {
+    "name": "qumulo",
+    "description": "Manage Qumulo file system storage resources with the Azure CLI.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "quota",
+    "description": "Manag quota for Azure resource providers.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "redis",
+    "description": "Manage dedicated Redis caches for your Azure applications.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "redisenterprise",
+    "description": "Manage the redisenterprise cache.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "relay",
+    "description": "Manage Azure Relay Service namespaces, WCF relays, hybrid connections, and rules.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "remote-rendering-account",
+    "description": "Manage remote rendering account with mixed reality.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "repos",
+    "description": "Manage Azure Repos.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "reservations",
+    "description": "Azure Reservations.",
+    "type": "Extension",
+    "status": "Preview"
+  },
+  {
+    "name": "resource",
+    "description": "Manage Azure resources.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "resource-mover",
+    "description": "Manage Resource Mover Service API.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "resourcemanagement",
+    "description": "Resourcemanagement CLI command group.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "rest",
+    "description": "Invoke a custom request.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "restore-point",
+    "description": "Manage restore point with res.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "role",
+    "description": "Manage Azure role-based access control (Azure RBAC).",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "scenario",
+    "description": "E2E Scenario Usage Guidance.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "scvmm",
+    "description": "Commands for managing Arc for SCVMM resources.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "search",
+    "description": "Manage Search.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "security",
+    "description": "Manage your security posture with Microsoft Defender for Cloud.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "self-help",
+    "description": "Azure SelfHelp will help you troubleshoot issues with Azure resources.",
+    "type": "Extension",
+    "status": "Preview"
+  },
+  {
+    "name": "sentinel",
+    "description": "Manage Microsoft Sentinel.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "serial-console",
+    "description": "Connect to the Serial Console of a Linux/Windows Virtual Machine or VMSS Instance.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "servicebus",
+    "description": "Servicebus.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "sf",
+    "description": "Manage and administer Azure Service Fabric clusters.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "sftp",
+    "description": "Generate SSH certificates and access Azure Storage blob data via SFTP.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "sig",
+    "description": "Manage shared image gallery.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "signalr",
+    "description": "Manage Azure SignalR Service.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "site",
+    "description": "Manage Site.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "site-recovery",
+    "description": "Manage Site Recovery Service.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "snapshot",
+    "description": "Manage point-in-time copies of managed disks, native blobs, or other snapshots.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "sphere",
+    "description": "Manage Azure Sphere resources.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "spring",
+    "description": "Commands to manage Azure Spring Apps.",
+    "type": "Core and Extension",
+    "status": "Deprecated"
+  },
+  {
+    "name": "sql",
+    "description": "Manage Azure SQL Databases and Data Warehouses.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "ssh",
+    "description": "SSH into resources (Azure VMs, Arc servers, etc) using AAD issued openssh certificates.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "sshkey",
+    "description": "Manage ssh public key with vm.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "stack",
+    "description": "A deployment stack is a native Azure resource type that enables you to perform operations on a resource collection as an atomic unit.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "stack-hci",
+    "description": "Manage Azure Stack HCI.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "stack-hci-vm",
+    "description": "Manage virtualmachine with stack-hci-vm.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "standby-container-group-pool",
+    "description": "Manage Standby Container Group Pool.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "standby-vm-pool",
+    "description": "Manage Standby Virtual Machine Pool.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "staticwebapp",
+    "description": "Manage static apps.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "storage",
+    "description": "Manage Azure Cloud Storage resources.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "storage-actions",
+    "description": "Manage StorageActions.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "storage-discovery",
+    "description": "Manage Storage Discovery.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "storage-mover",
+    "description": "Manage top-level Storage Mover resource.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "storagesync",
+    "description": "Manage Azure File Sync.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "stream-analytics",
+    "description": "Manage Stream Analytics.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "support",
+    "description": "Manage Azure support resource.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "survey",
+    "description": "Take Azure CLI survey.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "synapse",
+    "description": "Manage and operate Synapse Workspace, Spark Pool, SQL Pool.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "tag",
+    "description": "Tag Management on a resource.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "term",
+    "description": "Manage marketplace agreement with marketplaceordering.",
+    "type": "Core",
+    "status": "Experimental"
+  },
+  {
+    "name": "terraform",
+    "description": "Azure Terraform experience.",
+    "type": "Extension",
+    "status": "Preview"
+  },
+  {
+    "name": "trustedsigning",
+    "description": "Manage trusted signing account.",
+    "type": "Extension",
+    "status": "Preview"
+  },
+  {
+    "name": "ts",
+    "description": "Manage template specs at subscription or resource group scope.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "tsi",
+    "description": "Manage Azure Time Series Insights.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "upgrade",
+    "description": "Upgrade Azure CLI and extensions.",
+    "type": "Core",
+    "status": "Preview"
+  },
+  {
+    "name": "version",
+    "description": "Show the versions of Azure CLI modules and extensions in JSON format by default or format configured by --output.",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "vi",
+    "description": "Commands to manage Video Indexer for Cloud and Edge.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "vm",
+    "description": "Manage Linux or Windows virtual machines.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "vme",
+    "description": "Commands to manage version managed extensions on connected kubernetes clusters.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "vmss",
+    "description": "Manage groupings of virtual machines in an Azure Virtual Machine Scale Set (VMSS).",
+    "type": "Core",
+    "status": "GA"
+  },
+  {
+    "name": "vmware",
+    "description": "Commands to manage Azure VMware Solution.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "webapp",
+    "description": "Manage web apps.",
+    "type": "Core and Extension",
+    "status": "GA"
+  },
+  {
+    "name": "webpubsub",
+    "description": "Commands to manage Webpubsub.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "workload-orchestration",
+    "description": "Manage workload orchestration resources.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "workloads",
+    "description": "Manage workloads.",
+    "type": "Extension",
+    "status": "GA"
+  },
+  {
+    "name": "zones",
+    "description": "Commands to validate Availability Zone Configuration. Use one of the options below.",
+    "type": "Extension",
+    "status": "Preview"
+  }
+]
