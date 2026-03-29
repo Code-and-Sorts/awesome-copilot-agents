@@ -187,6 +187,7 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 
 - [Calculator](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/calculator/SKILL.md) - Performs arbitrary-precision arithmetic calculations including addition, subtraction, multiplication, division, and exponents.
 - [Jira CLI](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/jira-cli/SKILL.md) - Interact with Jira from the command line to create, list, view, edit, and transition issues, manage sprints and epics, and perform common Jira workflows.
+- [Skill Creator](https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md) - Create new skills, modify and improve existing skills, and measure skill performance.
 
 ### Documents
 
@@ -203,6 +204,8 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 ### Development
 
 - [Playwright CLI](https://github.com/microsoft/playwright-cli/blob/main/skills/playwright-cli/SKILL.md) - Automate browser interactions, test web pages and work with Playwright tests.
+- [Frontend Design](https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md) - Create distinctive, production-grade frontend interfaces with high design quality.
+- [Webapp Testing](https://github.com/anthropics/skills/blob/main/skills/webapp-testing/SKILL.md) - Toolkit for interacting with and testing local web applications using Playwright.
 
 ## MCPs
 
