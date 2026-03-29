@@ -9,7 +9,13 @@ metadata:
 
 # Azure Prices
 
-Fetch and compare live Azure service pricing using the bundled scripts that call the [Azure Retail Prices API](https://prices.azure.com/api/retail/prices).
+Fetch and compare live Azure service pricing using the bundled scripts that call the Azure Retail Prices API.
+
+## Execution Rules
+
+Always use the bundled npm script for price lookups and comparisons when terminal execution is available.
+
+**DO NOT** call the Azure Retail Prices API directly. You can only use the script to call the API.
 
 ## Scripts
 
@@ -31,6 +37,8 @@ The script accepts two positional arguments:
 When called with no arguments, it prints a sample of available service names.
 
 ## How to Use
+
+The npm commands below are the preferred execution path for this skill and should be used instead of direct API calls whenever command execution is available.
 
 ### Single region lookup
 
@@ -59,6 +67,10 @@ Run prices for the target service across several common regions and sort by pric
 ### Service discovery
 
 If the user isn't sure of the exact service name, run the script with no arguments first to get a sample of available names, then use the closest match.
+
+## Fallback Behavior
+
+If command execution is unavailable, use the local script implementation as the behavioral reference, then fall back to public pricing sources only as needed. In that case, explicitly tell the user that script execution was unavailable before presenting results.
 
 ## Output Format
 
