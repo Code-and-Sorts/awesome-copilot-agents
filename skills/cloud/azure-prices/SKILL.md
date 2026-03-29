@@ -13,14 +13,14 @@ Fetch and compare live Azure service pricing using the bundled scripts that call
 
 ## Scripts
 
-All scripts live in `@skills/azure-prices/scripts/` and run via npm:
+All scripts live in `./scripts/` and run via npm:
 
 ```bash
 # List sample service names (discover what's available)
-npm run --prefix @skills/azure-prices/scripts get-prices
+npm run --prefix ./scripts get-prices
 
 # Get prices for a service in a region (default region: eastus)
-npm run --prefix @skills/azure-prices/scripts get-prices -- "Virtual Machines" eastus
+npm run --prefix ./scripts get-prices -- "Virtual Machines" eastus
 ```
 
 The script accepts two positional arguments:
@@ -41,9 +41,9 @@ Run the script with the service name and region. Present results in a readable t
 To compare prices across regions, run the script multiple times — once per region — then combine the results into a comparison table. For example, to compare Virtual Machines prices across three regions:
 
 ```bash
-npm run --prefix @skills/azure-prices/scripts get-prices -- "Virtual Machines" eastus
-npm run --prefix @skills/azure-prices/scripts get-prices -- "Virtual Machines" westus2
-npm run --prefix @skills/azure-prices/scripts get-prices -- "Virtual Machines" westeurope
+npm run --prefix ./scripts get-prices -- "Virtual Machines" eastus
+npm run --prefix ./scripts get-prices -- "Virtual Machines" westus2
+npm run --prefix ./scripts get-prices -- "Virtual Machines" westeurope
 ```
 
 Then join the results by SKU name to show a side-by-side comparison table with columns for each region.
