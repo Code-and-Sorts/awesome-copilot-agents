@@ -227,6 +227,10 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 - [Playwright](https://github.com/microsoft/playwright-mcp) - Playwright MCP to automate browser interactions, test web pages and work with Playwright tests.
 - [Context7](https://github.com/upstash/context7) - Inject version-specific code documentation in your agent session to provide the correct API docs for code generation.
 
+### Governance & Security MCPs
+
+- [SidClaw](https://github.com/sidclawhq/platform) - Governance proxy for MCP servers. Wraps any upstream MCP server with policy evaluation, human approval workflows, and hash-chain audit trails. Configure via `.mcp.json` with zero code changes. Apache 2.0.
+
 ### Cloud MCPs
 
 - [Azure MCP](https://github.com/microsoft/mcp/blob/main/servers/Azure.Mcp.Server/README.md) - Azure MCP Server supercharges your agents with Azure context across different Azure services.
