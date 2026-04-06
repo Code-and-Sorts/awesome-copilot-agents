@@ -47,6 +47,7 @@ Customized instructions, prompts, agent skills, agent MCPs and custom agents hel
 
 **Tip**: Learn more about customizing GitHub Copilot in VS Code in the [VS Code documentation](https://code.visualstudio.com/docs/copilot/customization/overview).
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested agent instruction files for Claude Code multi-agent orchestration with task registry, quality gates, and automated delegation.
 ## Instructions
 
 Instructions provides Copilot with repository-specific context, such as coding standards, frameworks, or workflows, to improve code suggestions.
