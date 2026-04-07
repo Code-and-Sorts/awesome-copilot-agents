@@ -207,6 +207,10 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 - [Frontend Design](https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md) - Create distinctive, production-grade frontend interfaces with high design quality.
 - [Webapp Testing](https://github.com/anthropics/skills/blob/main/skills/webapp-testing/SKILL.md) - Toolkit for interacting with and testing local web applications using Playwright.
 
+### Marketplaces
+
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw. Discover, share, and sell AI agent capabilities.
+
 ## MCPs
 
 MCPs (Model Context Protocol servers) give agents a standardized way to connect to external tools, APIs, data sources, and local capabilities. They extend what an agent can do beyond plain chat by exposing actions such as reading files, browsing the web, querying cloud platforms, or interacting with development tooling through a common protocol.
