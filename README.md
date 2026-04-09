@@ -201,6 +201,10 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 - [Az CLI](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/cloud/az-cli/SKILL.md) - Azure CLI documentation to execute or ask about Azure CLI commands.
 - [Azure Prices](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/cloud/azure-prices/SKILL.md) - Look up and compare Azure service pricing using the Azure Retail Prices API.
 
+### Automation
+
+- [Power Automate](https://github.com/kylehuang0323-ai/power-automate-dev-skills) - Expert-level Power Automate development with 15 knowledge modules, 8 design patterns, 50+ expression functions, DLP compliance, and importable flow examples.
+
 ### Development
 
 - [Playwright CLI](https://github.com/microsoft/playwright-cli/blob/main/skills/playwright-cli/SKILL.md) - Automate browser interactions, test web pages and work with Playwright tests.
