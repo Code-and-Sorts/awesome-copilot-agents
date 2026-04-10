@@ -1,0 +1,1 @@
+Due to the skill requiring network access to the Memyard API, the skill can't be added directly. Reference [google-drive-memyard](https://github.com/zagmoai/public-google-drive/blob/main/SKILL.md) for skill.

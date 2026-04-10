@@ -195,6 +195,7 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 - [pdf](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/pdf/README.md) - PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms.
 - [pptx](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/pptx/README.md) - Presentation creation, editing, and analysis.
 - [xlsx](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/xlsx/README.md) - Spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization.
+- [google-drive-memyard](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/google-drive-memyard/README.md) - Create and edit Google Docs and Sheets without sign-in. Documents hosted on Memyard with shareable links.
 
 ### Cloud
 
