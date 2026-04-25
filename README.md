@@ -26,6 +26,7 @@
 
 ## Contents
 
+- [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Multi-agent orchestrator for AI coding agents. 21 adapters including Claude Code, Codex, Gemini CLI. Deterministic scheduling, quality gates.
 - [Why Copilot Agents](#why-copilot-agents)
 - [Instructions](#instructions)
   - [Boilerplates & Templates](#boilerplates--templates)
