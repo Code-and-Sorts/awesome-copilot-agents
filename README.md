@@ -188,6 +188,7 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 - [Calculator](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/calculator/SKILL.md) - Performs arbitrary-precision arithmetic calculations including addition, subtraction, multiplication, division, and exponents.
 - [Jira CLI](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/jira-cli/SKILL.md) - Interact with Jira from the command line to create, list, view, edit, and transition issues, manage sprints and epics, and perform common Jira workflows.
 - [Skill Creator](https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md) - Create new skills, modify and improve existing skills, and measure skill performance.
+- [unslop](https://github.com/MohamedAbdallah-14/unslop) - Remove named AI writing tells from any text: tricolons, em-dash pileups, hedging stacks, sycophancy openers, and overused vocab like "delve" and "crucial". Lint-only mode audits without rewriting. Five intensity levels.
 
 ### Documents
 
@@ -221,6 +222,7 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 - [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - Break down complex problems into structured steps.
 - [GitHub](https://github.com/github/github-mcp-server) - Allow your agent access to repository and workflow management.
 - [Time](https://github.com/modelcontextprotocol/servers/blob/main/src/time) - Enables agents to get current time information and perform timezone conversions using IANA timezone names, with automatic system timezone detection.
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos) by routing each request across 30+ image generation models. Zero API key for first run via Pollinations, Stable Horde, and HuggingFace free tiers.
 
 ### Development MCPs
 
