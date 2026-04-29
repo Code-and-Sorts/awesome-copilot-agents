@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/code-and-sorts-awesome-copilot-agents-badge.png)](https://mseep.ai/app/code-and-sorts-awesome-copilot-agents)
+
 <!--lint disable remark-lint:awesome-list-item-->
 
 #
