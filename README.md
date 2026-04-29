@@ -147,6 +147,10 @@ A comprehensive workflow for AI-assisted development featuring structured approa
 - [Task Generation](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/instructions/workflows/ai-development-instructions/task-generation.instructions.md) - Break PRDs into actionable development tasks.
 - [Task Execution](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/instructions/workflows/ai-development-instructions/task-execution.instructions.md) - Systematic task execution with proper testing and Git practices.
 
+#### Career & Job Search
+
+- [Career-Copilot](https://github.com/RajjjAryan/career-copilot) - AI-powered job search pipeline: evaluate offers (A-F scoring), generate ATS-optimized CVs, scan 45+ company portals, batch-process applications, and prep for interviews — all from Copilot CLI.
+
 ## Prompts
 
 Prompts are reusable tasks or workflow instructions that help guide Copilot to perform specific actions or generate certain outputs.
