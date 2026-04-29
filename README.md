@@ -124,6 +124,8 @@ Instructions provides Copilot with repository-specific context, such as coding s
 
 ### Tools
 
+- [Drevon](https://drevon.dev) - Mac desktop workspace for GTM engineers. Run parallel AI agents powered by Claude Code, Codex, or Copilot to build target lists, score accounts, and pull prospect intel.
+
 #### Content Management Systems (CMS)
 
 ##### Drupal
