@@ -221,11 +221,13 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 - [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - Break down complex problems into structured steps.
 - [GitHub](https://github.com/github/github-mcp-server) - Allow your agent access to repository and workflow management.
 - [Time](https://github.com/modelcontextprotocol/servers/blob/main/src/time) - Enables agents to get current time information and perform timezone conversions using IANA timezone names, with automatic system timezone detection.
+- [NotHumanSearch](https://nothumansearch.ai/mcp) - Search an index of 8,600+ agent-friendly sites (MCP servers, APIs with llms.txt/OpenAPI, structured endpoints) filtered for real agent signals.
 
 ### Development MCPs
 
 - [Playwright](https://github.com/microsoft/playwright-mcp) - Playwright MCP to automate browser interactions, test web pages and work with Playwright tests.
 - [Context7](https://github.com/upstash/context7) - Inject version-specific code documentation in your agent session to provide the correct API docs for code generation.
+- [AI Dev Jobs](https://aidevboard.com/mcp) - Search 8,400+ AI/ML engineering jobs across 489 companies with tools for search_jobs, get_job, list_companies, and get_stats.
 
 ### Cloud MCPs
 
