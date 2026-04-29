@@ -224,6 +224,7 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 
 ### Development MCPs
 
+- [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - Multi-agent orchestrator MCP server. Coordinates 37 CLI coding agents — including GitHub Copilot CLI — running in parallel git worktrees with deterministic Python scheduling, quality gates, and cost tracking.
 - [Playwright](https://github.com/microsoft/playwright-mcp) - Playwright MCP to automate browser interactions, test web pages and work with Playwright tests.
 - [Context7](https://github.com/upstash/context7) - Inject version-specific code documentation in your agent session to provide the correct API docs for code generation.
 
