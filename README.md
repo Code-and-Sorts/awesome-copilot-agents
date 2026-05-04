@@ -25,6 +25,7 @@
 <br>
 
 ## Contents
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Real-time AI agent monitoring dashboard. Vue 3 + ECharts. [Demo](http://47.109.47.116/)
 
 - [Why Copilot Agents](#why-copilot-agents)
 - [Instructions](#instructions)
