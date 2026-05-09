@@ -192,7 +192,7 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 ### Documents
 
 - [docx](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/docx/README.md) - Document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction.
-- [pdf](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/pdf/README.md) - PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms.
+- [pdf](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/pdf/README.md) - Extract text and tables, create new PDFs, merge or split documents, and handle forms.
 - [pptx](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/pptx/README.md) - Presentation creation, editing, and analysis.
 - [xlsx](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/xlsx/README.md) - Spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization.
 
@@ -200,6 +200,10 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 
 - [Az CLI](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/cloud/az-cli/SKILL.md) - Azure CLI documentation to execute or ask about Azure CLI commands.
 - [Azure Prices](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/cloud/azure-prices/SKILL.md) - Look up and compare Azure service pricing using the Azure Retail Prices API.
+
+### Social Media
+
+- [TweetClaw](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/social/tweetclaw/README.md) - Use the Xquik OpenClaw plugin to search tweets, scrape tweet data, post tweets and replies, monitor X/Twitter, and run account-scoped agent workflows safely.
 
 ### Development
 
@@ -224,12 +228,12 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 
 ### Development MCPs
 
-- [Playwright](https://github.com/microsoft/playwright-mcp) - Playwright MCP to automate browser interactions, test web pages and work with Playwright tests.
+- [Playwright](https://github.com/microsoft/playwright-mcp) - Automate browser interactions, test web pages, and work with Playwright tests.
 - [Context7](https://github.com/upstash/context7) - Inject version-specific code documentation in your agent session to provide the correct API docs for code generation.
 
 ### Cloud MCPs
 
-- [Azure MCP](https://github.com/microsoft/mcp/blob/main/servers/Azure.Mcp.Server/README.md) - Azure MCP Server supercharges your agents with Azure context across different Azure services.
+- [Azure MCP](https://github.com/microsoft/mcp/blob/main/servers/Azure.Mcp.Server/README.md) - Supercharge agents with Azure context across different Azure services.
 - [AWS Documentation](https://github.com/awslabs/mcp/tree/main/src/aws-documentation-mcp-server) - Agent tools to access AWS documentation, search for content, and get recommendations.
 - [gcloud](https://github.com/googleapis/gcloud-mcp) - Agent tools to interact with the Google Cloud environment using the gcloud CLI.
 - [KubeStellar Console](https://github.com/kubestellar/console) - MCP server bridging AI agents to multi-cluster Kubernetes environments for cluster management, pod inspection, and real-time observability.
