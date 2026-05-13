@@ -215,6 +215,7 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 
 ### General MCPs
 
+- [Akephalos](https://github.com/sunnja69/akephalos) - Local-first markdown passport for sharing non-secret agent preferences, project context, rules, tools, and memories across MCP-compatible AI coding clients via plain files/Git.
 - [Knowledge Graph Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) - Create a local knowledge graph for your agent to remember information across different chat sessions.
 - [Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) - Read and write files in batch operations, search file contents, list files, and validate file paths.
 - [Fetch](https://github.com/modelcontextprotocol/servers/blob/main/src/fetch) - Automate web browsing for agents to retrieve and process content from web pages, converting HTML to markdown for easier consumption.
