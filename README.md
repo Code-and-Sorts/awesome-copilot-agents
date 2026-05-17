@@ -226,6 +226,7 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 
 - [Playwright](https://github.com/microsoft/playwright-mcp) - Playwright MCP to automate browser interactions, test web pages and work with Playwright tests.
 - [Context7](https://github.com/upstash/context7) - Inject version-specific code documentation in your agent session to provide the correct API docs for code generation.
+- [click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) - Auto-convert any Python Click/Typer CLI into an MCP server. Zero code changes needed. Makes existing CLI tools instantly available to GitHub Copilot and other MCP clients.
 
 ### Cloud MCPs
 
