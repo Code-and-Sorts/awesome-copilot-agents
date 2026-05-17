@@ -1,6 +1,6 @@
 ---
 name: agenttrace-session-audit
-description: Audit local AI coding-agent sessions with agenttrace. Use when the user asks to inspect Claude Code, Codex CLI, Gemini CLI, Aider, Cursor, OpenCode, Kimi, Copilot-style, or generic JSON/JSONL sessions for cost, tokens, tool failures, latency, anomalies, health, diffs, or CI gates.
+description: Audit local AI coding-agent sessions with agenttrace. Use when the user asks to inspect Claude Code, Codex CLI, Gemini CLI, Qwen Code, Cline, Aider, Cursor exports, OpenCode, OpenClaw, Pi, Kimi CLI, Copilot-style, or generic JSON/JSONL sessions for cost, tokens, tool failures, latency, anomalies, health, diffs, or CI gates.
 license: MIT
 metadata:
   short-description: Audit AI agent session health
