@@ -35,6 +35,7 @@
   - [Workflows](#workflows)
 - [Prompts](#prompts)
   - [AI Development Tasks](#ai-development-tasks)
+  - [Operations](#operations)
 - [Custom Agents](#custom-agents)
   - [AI Development Mode](#ai-development-mode)
 - [Agent Skills](#agent-skills)
@@ -158,6 +159,12 @@ A comprehensive workflow for AI-assisted development featuring structured approa
 - [PRD Creation Prompt](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/prompts/ai-development-tasks/prd-creation.prompt.md) - Create detailed Product Requirements Documents using prompt tasks.
 - [Task Generation Prompt](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/prompts/ai-development-tasks/task-generation.prompt.md) - Break PRDs into actionable development tasks using prompt tasks.
 - [Task Execution Prompt](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/prompts/ai-development-tasks/task-execution.prompt.md) - Systematic task execution with proper testing and Git practices using prompt tasks.
+
+### Operations
+
+Reusable prompt tasks for production support, incident handling, and operator-facing handoffs.
+
+- [Agent Ops Incident Triage Prompt](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/prompts/operations/agent-ops-incident-triage/incident-triage.prompt.md) - Triage a production incident and produce a Korean, evidence-first operator handoff.
 
 ## Custom Agents
 
