@@ -234,6 +234,11 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 - [gcloud](https://github.com/googleapis/gcloud-mcp) - Agent tools to interact with the Google Cloud environment using the gcloud CLI.
 - [KubeStellar Console](https://github.com/kubestellar/console) - MCP server bridging AI agents to multi-cluster Kubernetes environments for cluster management, pod inspection, and real-time observability.
 
+### Finance \& Data MCPs
+
+- [The Stall](https://github.com/thebrierfox/the-stall) - Remote MCP server with 173 pay-per-call financial and market data tools (stock prices, options chains, crypto/DeFi, prediction markets, macro indicators, SEC filings). No API keys or subscriptions — agents pay micro-amounts of USDC per call via x402.
+
+
 ## How to Use
 
 ### Setup Copilot in VSCode
