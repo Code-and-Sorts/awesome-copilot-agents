@@ -181,18 +181,19 @@ The built-in available custom agents are:
 
 ## Agent Skills
 
-Agent Skills are portable, [open standard](https://agentskills.io/home), version-controlled folders of instructions, scripts, and resources that agents can discover and load on demand to do tasks more accurately and efficiently. They let agents gain domain expertise, new capabilities, and repeatable workflows—while making those same skills reusable across different compatible agent products and teams.
+Agent Skills are portable, [open standard](https://agentskills.io/home), version-controlled folders of instructions, scripts, and resources that agents can discover and load on demand to do tasks more accurately and efficiently. They let agents gain domain expertise, new capabilities, and repeatable workflows - while making those same skills reusable across different compatible agent products and teams.
 
 ### General
 
 - [Calculator](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/calculator/SKILL.md) - Performs arbitrary-precision arithmetic calculations including addition, subtraction, multiplication, division, and exponents.
 - [Jira CLI](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/jira-cli/SKILL.md) - Interact with Jira from the command line to create, list, view, edit, and transition issues, manage sprints and epics, and perform common Jira workflows.
 - [Skill Creator](https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md) - Create new skills, modify and improve existing skills, and measure skill performance.
+- [Xquik](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/xquik/SKILL.md) - Research public X profiles, posts, conversations, monitors, and exports with Xquik MCP or REST.
 
 ### Documents
 
 - [docx](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/docx/README.md) - Document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction.
-- [pdf](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/pdf/README.md) - PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms.
+- [pdf](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/pdf/README.md) - Manipulate PDF files by extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms.
 - [pptx](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/pptx/README.md) - Presentation creation, editing, and analysis.
 - [xlsx](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/documents/xlsx/README.md) - Spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization.
 
@@ -224,12 +225,12 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 
 ### Development MCPs
 
-- [Playwright](https://github.com/microsoft/playwright-mcp) - Playwright MCP to automate browser interactions, test web pages and work with Playwright tests.
+- [Playwright](https://github.com/microsoft/playwright-mcp) - Automate browser interactions, test web pages, and work with Playwright tests through MCP.
 - [Context7](https://github.com/upstash/context7) - Inject version-specific code documentation in your agent session to provide the correct API docs for code generation.
 
 ### Cloud MCPs
 
-- [Azure MCP](https://github.com/microsoft/mcp/blob/main/servers/Azure.Mcp.Server/README.md) - Azure MCP Server supercharges your agents with Azure context across different Azure services.
+- [Azure MCP](https://github.com/microsoft/mcp/blob/main/servers/Azure.Mcp.Server/README.md) - Give agents Azure context across different Azure services.
 - [AWS Documentation](https://github.com/awslabs/mcp/tree/main/src/aws-documentation-mcp-server) - Agent tools to access AWS documentation, search for content, and get recommendations.
 - [gcloud](https://github.com/googleapis/gcloud-mcp) - Agent tools to interact with the Google Cloud environment using the gcloud CLI.
 - [KubeStellar Console](https://github.com/kubestellar/console) - MCP server bridging AI agents to multi-cluster Kubernetes environments for cluster management, pod inspection, and real-time observability.
