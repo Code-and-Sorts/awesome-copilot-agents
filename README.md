@@ -205,6 +205,7 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 
 - [Playwright CLI](https://github.com/microsoft/playwright-cli/blob/main/skills/playwright-cli/SKILL.md) - Automate browser interactions, test web pages and work with Playwright tests.
 - [Frontend Design](https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md) - Create distinctive, production-grade frontend interfaces with high design quality.
+- [iOS App Dev Skills](https://github.com/JasonColapietro/ios-app-dev-skills) - Turn websites, web apps, dashboards, PWAs, and content surfaces into App Store-ready iOS app workflows with skills and commands for site audits, SwiftUI/Capacitor choices, ASO, screenshots, and release gates.
 - [Webapp Testing](https://github.com/anthropics/skills/blob/main/skills/webapp-testing/SKILL.md) - Toolkit for interacting with and testing local web applications using Playwright.
 
 ## MCPs
