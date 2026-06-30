@@ -187,7 +187,8 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 
 - [Calculator](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/calculator/SKILL.md) - Performs arbitrary-precision arithmetic calculations including addition, subtraction, multiplication, division, and exponents.
 - [Jira CLI](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/jira-cli/SKILL.md) - Interact with Jira from the command line to create, list, view, edit, and transition issues, manage sprints and epics, and perform common Jira workflows.
-- [Skill Creator](https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md) - Create new skills, modify and improve existing skills, and measure skill performance.
+|- [Skill Creator](https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md) - Create new skills, modify and improve existing skills, and measure skill performance.
+|- [Skill Hub](https://github.com/rdone4425/skill) - Navigation hub for 5,000+ AI agent skills across 22 categories. Discover skills for Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and more with search, filter, and sort. Open source (MIT).
 
 ### Documents
 
