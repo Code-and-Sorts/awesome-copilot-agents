@@ -277,3 +277,5 @@ Use YAML front matter to specify metadata like `applyTo`, `mode`, and `descripti
 ## Contributing
 
 All contributions are welcome! If you would like to share instruction files (`.instructions.md`), prompt files (`.prompt.md`), skills (`SKILL.md` in a skill folder) or custom agents (`.agent.md`), see the [contribution guide](CONTRIBUTING.md) for details.
+
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates + 5 Claude Code skills for giving AI agents deep personal context. MIT-licensed, one-command install.
