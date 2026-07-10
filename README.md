@@ -220,6 +220,7 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 - [Fetch](https://github.com/modelcontextprotocol/servers/blob/main/src/fetch) - Automate web browsing for agents to retrieve and process content from web pages, converting HTML to markdown for easier consumption.
 - [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - Break down complex problems into structured steps.
 - [GitHub](https://github.com/github/github-mcp-server) - Allow your agent access to repository and workflow management.
+- [RunAPI](https://github.com/runapi-ai/mcp) - Browse the RunAPI model catalog and run AI image, video, music/audio, text-to-speech, and LLM tasks from agent workflows.
 - [Time](https://github.com/modelcontextprotocol/servers/blob/main/src/time) - Enables agents to get current time information and perform timezone conversions using IANA timezone names, with automatic system timezone detection.
 
 ### Development MCPs
