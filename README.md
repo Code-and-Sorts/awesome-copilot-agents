@@ -37,6 +37,7 @@
   - [AI Development Tasks](#ai-development-tasks)
 - [Custom Agents](#custom-agents)
   - [AI Development Mode](#ai-development-mode)
+  - [Web Data Mode](#web-data-mode)
 - [Agent Skills](#agent-skills)
 - [MCPs](#mcps)
 - [How to Use](#how-to-use)
@@ -178,6 +179,10 @@ The built-in available custom agents are:
 - [Clean Code](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/agents/ai-development-mode/clean-code.agent.md) - Write clean, readable, and maintainable code using clean code best practices.
 - [Debugger](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/agents/ai-development-mode/debugger.agent.md) - Debug your application code to find a fix.
 - [PRD Creation](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/agents/ai-development-mode/prd-creation.agent.md) - Build Product Requirements Document (PRD).
+
+### Web Data Mode
+
+- [Bright Data Rapid Agent](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/agents/web-data-mode/brightdata-rapid-agent.agent.md) - Real-time web search via Bright Data MCP — search, discover, and scrape.
 
 ## Agent Skills
 
