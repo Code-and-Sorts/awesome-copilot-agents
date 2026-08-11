@@ -221,6 +221,7 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 - [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - Break down complex problems into structured steps.
 - [GitHub](https://github.com/github/github-mcp-server) - Allow your agent access to repository and workflow management.
 - [Time](https://github.com/modelcontextprotocol/servers/blob/main/src/time) - Enables agents to get current time information and perform timezone conversions using IANA timezone names, with automatic system timezone detection.
+- [Hexis](https://github.com/Bevel-Software/Hexis) - Git-backed platform for skills, tools, and context for AI agents, available to Copilot through a remote OAuth MCP server.
 
 ### Development MCPs
 
