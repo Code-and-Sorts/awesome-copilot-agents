@@ -143,6 +143,7 @@ Instructions provides Copilot with repository-specific context, such as coding s
 
 A comprehensive workflow for AI-assisted development featuring structured approaches to planning, task generation, and execution.
 
+- [mblode/agent-skills](https://github.com/mblode/agent-skills) - Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. `npx skills add mblode/agent-skills`
 - [PRD Creation](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/instructions/workflows/ai-development-instructions/prd-creation.instructions.md) - Create detailed Product Requirements Documents.
 - [Task Generation](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/instructions/workflows/ai-development-instructions/task-generation.instructions.md) - Break PRDs into actionable development tasks.
 - [Task Execution](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/instructions/workflows/ai-development-instructions/task-execution.instructions.md) - Systematic task execution with proper testing and Git practices.
