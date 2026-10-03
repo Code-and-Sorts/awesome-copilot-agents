@@ -221,6 +221,7 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 - [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - Break down complex problems into structured steps.
 - [GitHub](https://github.com/github/github-mcp-server) - Allow your agent access to repository and workflow management.
 - [Time](https://github.com/modelcontextprotocol/servers/blob/main/src/time) - Enables agents to get current time information and perform timezone conversions using IANA timezone names, with automatic system timezone detection.
+- [BankBridge](https://github.com/bankbridge-money/bankbridge-plugin) - Read-only access to your bank accounts, transactions, and investment holdings. 12 tools covering balances, recurring charges, monthly cashflow, merchant history, and holdings. No financial data cached.
 
 ### Development MCPs
 
