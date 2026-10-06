@@ -200,6 +200,7 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 
 - [Az CLI](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/cloud/az-cli/SKILL.md) - Azure CLI documentation to execute or ask about Azure CLI commands.
 - [Azure Prices](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/cloud/azure-prices/SKILL.md) - Look up and compare Azure service pricing using the Azure Retail Prices API.
+- [Publish with Shipvela](https://github.com/Code-and-Sorts/awesome-copilot-agents/blob/main/skills/cloud/shipvela-publish/SKILL.md) - Publish static websites through Shipvela OAuth/MCP with owner approval, status and logs; requires a hosted-service account (free tier available).
 
 ### Development
 
