@@ -203,8 +203,9 @@ Agent Skills are portable, [open standard](https://agentskills.io/home), version
 
 ### Development
 
-- [Playwright CLI](https://github.com/microsoft/playwright-cli/blob/main/skills/playwright-cli/SKILL.md) - Automate browser interactions, test web pages and work with Playwright tests.
 - [Frontend Design](https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md) - Create distinctive, production-grade frontend interfaces with high design quality.
+- [Playwright CLI](https://github.com/microsoft/playwright-cli/blob/main/skills/playwright-cli/SKILL.md) - Automate browser interactions, test web pages and work with Playwright tests.
+- [URL to Markdown](https://github.com/Code-and-Sorts/awesome-copilot-agents/tree/main/skills/web/url-to-markdown/SKILL.md) - Fetch public webpages as clean Markdown for agent context through a read-only HTTP endpoint.
 - [Webapp Testing](https://github.com/anthropics/skills/blob/main/skills/webapp-testing/SKILL.md) - Toolkit for interacting with and testing local web applications using Playwright.
 
 ## MCPs
