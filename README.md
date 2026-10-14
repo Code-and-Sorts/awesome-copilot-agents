@@ -226,6 +226,7 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 
 - [Playwright](https://github.com/microsoft/playwright-mcp) - Playwright MCP to automate browser interactions, test web pages and work with Playwright tests.
 - [Context7](https://github.com/upstash/context7) - Inject version-specific code documentation in your agent session to provide the correct API docs for code generation.
+- [Latchkey](https://latchkey.dev/documentation/connect-your-ai-agent) - Remote MCP server for self-healing GitHub Actions runners: read the CI failures self-heal could not fix (root cause, failing file, logs), check run status, dispatch workflows, and run commands on fresh ephemeral runners.
 
 ### Cloud MCPs
 
