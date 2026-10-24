@@ -226,6 +226,7 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 
 - [Playwright](https://github.com/microsoft/playwright-mcp) - Playwright MCP to automate browser interactions, test web pages and work with Playwright tests.
 - [Context7](https://github.com/upstash/context7) - Inject version-specific code documentation in your agent session to provide the correct API docs for code generation.
+- [Doomsday Network](https://github.com/doomsday-network/doomsday) - Agent-native MCP server (`mcp_server/server.py`) and `SKILL.md` for locking/claiming SHA-256 Proof-of-Escrow sub-agent bounties, settling HTTP 402 pay-per-call tool micropayments, and managing Base Mainnet `wDOOM` wallets.
 
 ### Cloud MCPs
 
