@@ -222,6 +222,10 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 - [GitHub](https://github.com/github/github-mcp-server) - Allow your agent access to repository and workflow management.
 - [Time](https://github.com/modelcontextprotocol/servers/blob/main/src/time) - Enables agents to get current time information and perform timezone conversions using IANA timezone names, with automatic system timezone detection.
 
+### Jobs & Hiring MCPs
+
+- [JobsPipe](https://jobspipe.dev) - Live job postings from 30+ ATS feeds, job boards, and public employment services via hosted MCP (`npx -y mcp-remote https://mcp.jobspipe.dev/mcp`). Docs: https://docs.jobspipe.dev.
+
 ### Development MCPs
 
 - [Playwright](https://github.com/microsoft/playwright-mcp) - Playwright MCP to automate browser interactions, test web pages and work with Playwright tests.
