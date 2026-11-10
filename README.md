@@ -227,6 +227,12 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 - [Playwright](https://github.com/microsoft/playwright-mcp) - Playwright MCP to automate browser interactions, test web pages and work with Playwright tests.
 - [Context7](https://github.com/upstash/context7) - Inject version-specific code documentation in your agent session to provide the correct API docs for code generation.
 
+- [doc2md-lite](https://github.com/tidybytetools/doc2md-lite) - Turn local PDFs and HTML into clean Markdown with real tables.
+- [pdf-table-pull-lite](https://github.com/tidybytetools/pdf-table-pull-lite) - Pull tables from text PDFs into CSV.
+- [md-chunk-lite](https://github.com/tidybytetools/md-chunk-lite) - Split Markdown into heading-aware chunks for RAG.
+- [link-check-lite](https://github.com/tidybytetools/link-check-lite) - Check URLs for status codes, redirects and broken links.
+- [json-shaper-lite](https://github.com/tidybytetools/json-shaper-lite) - Turn notes, CSV/TSV and Markdown tables into typed JSON.
+
 ### Cloud MCPs
 
 - [Azure MCP](https://github.com/microsoft/mcp/blob/main/servers/Azure.Mcp.Server/README.md) - Azure MCP Server supercharges your agents with Azure context across different Azure services.
