@@ -232,6 +232,9 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 - [md-chunk-lite](https://github.com/tidybytetools/md-chunk-lite) - Split Markdown into heading-aware chunks for RAG.
 - [link-check-lite](https://github.com/tidybytetools/link-check-lite) - Check URLs for status codes, redirects and broken links.
 - [json-shaper-lite](https://github.com/tidybytetools/json-shaper-lite) - Turn notes, CSV/TSV and Markdown tables into typed JSON.
+- [base64-lite](https://github.com/tidybytetools/base64-lite) - Encode or decode Base64 for text and local files.
+- [json-repair-lite](https://github.com/tidybytetools/json-repair-lite) - Repair broken or incomplete JSON, including model output.
+- [hash-lite](https://github.com/tidybytetools/hash-lite) - Hash text or local files with SHA-256, SHA-1, MD5 and SHA-512.
 
 ### Cloud MCPs
 
