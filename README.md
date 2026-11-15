@@ -221,6 +221,7 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 - [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - Break down complex problems into structured steps.
 - [GitHub](https://github.com/github/github-mcp-server) - Allow your agent access to repository and workflow management.
 - [Time](https://github.com/modelcontextprotocol/servers/blob/main/src/time) - Enables agents to get current time information and perform timezone conversions using IANA timezone names, with automatic system timezone detection.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote streamable HTTP MCP server and skill (`https://github.com/ratacat/nostairsplease-mcp`) for querying 7,000+ North American live-music venues and booking contacts.
 
 ### Development MCPs
 
