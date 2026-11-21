@@ -221,6 +221,7 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 - [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - Break down complex problems into structured steps.
 - [GitHub](https://github.com/github/github-mcp-server) - Allow your agent access to repository and workflow management.
 - [Time](https://github.com/modelcontextprotocol/servers/blob/main/src/time) - Enables agents to get current time information and perform timezone conversions using IANA timezone names, with automatic system timezone detection.
+- [FlashData MCP](https://flashdata.dev/mcp) - Hosted MCP server (`https://data.flashdata.dev/mcp`) and [agent skills](https://github.com/flashdatadev/flashdata-skills) for real-time Google Search SERP, YouTube Data & timestamped transcripts, and cloud-storage YouTube video delivery; free trial (no credit card required) and $0/mo pay-as-you-go at [flashdata.dev](https://flashdata.dev).
 
 ### Development MCPs
 
