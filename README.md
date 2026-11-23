@@ -226,6 +226,7 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 
 - [Playwright](https://github.com/microsoft/playwright-mcp) - Playwright MCP to automate browser interactions, test web pages and work with Playwright tests.
 - [Context7](https://github.com/upstash/context7) - Inject version-specific code documentation in your agent session to provide the correct API docs for code generation.
+- [OmniForge Launch Audit](https://github.com/zColdWater/mcp-launch-audit) - Audit web app client-side security, SPF/DMARC email authentication, AI search readiness, and domain availability.
 
 ### Cloud MCPs
 
