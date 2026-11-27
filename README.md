@@ -226,6 +226,7 @@ This section highlights useful MCP servers you can add to your Copilot setup to 
 
 - [Playwright](https://github.com/microsoft/playwright-mcp) - Playwright MCP to automate browser interactions, test web pages and work with Playwright tests.
 - [Context7](https://github.com/upstash/context7) - Inject version-specific code documentation in your agent session to provide the correct API docs for code generation.
+- [SaaSCity](https://github.com/nyyhao/saascity-mcp) - Keyless remote MCP server with 23 tools for homepage launch audits, startup directory lookup, backlink checks, and SaaS metrics.
 
 ### Cloud MCPs
 
